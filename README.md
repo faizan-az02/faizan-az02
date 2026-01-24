@@ -1,9 +1,16 @@
-```md
+### What’s wrong
+In your screenshot, it looks like the badges/visitor counter are being treated as **plain text** (not rendered). That usually happens when the README content is inside a **code block** (you pasted the ``` fences too), or you’re just viewing the **edit** tab instead of **Preview**.
+
+### Fix
+- **Make sure your README does NOT contain** the opening/closing lines like: ``` or ```md
+- On GitHub, click **Preview** (or save + view your profile) to see the colored badges render.
+
+### Paste this (no code fences)
 ## Hi, I’m Faizan Aziz
 
 I’m a data scientist and machine learning engineer focused on computer vision, deep learning, and data-driven systems.
 
-![Profile views](https://komarev.com/ghpvc/?username=faizan-az02&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=faizan-az02&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -39,10 +46,4 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-az02&show_icons=true&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-az02&layout=compact)
-```
+If it’s still not rendering after removing the backticks, tell me exactly which part isn’t showing (badges vs profile views vs stats), and I’ll adjust the links.
