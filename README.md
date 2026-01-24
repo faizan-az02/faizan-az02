@@ -1,13 +1,13 @@
-## Hi, I’m Faizan Aziz
+## 👋 Hi, I’m Faizan Aziz
 [![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
 
-I’m a data scientist and machine learning engineer focused on computer vision, deep learning, and data-driven systems.
+I’m a 22-year-old data science enthusiast from the city of Islamabad, Pakistan. 🌆 Passionate about data and artificial intelligence, I’m on a mission to make my mark in the world of analytics with my scientific expertise. 👨🏼‍💻
 
 ![](https://komarev.com/ghpvc/?username=faizan-az02&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--az02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-az02)
 <br/>
@@ -17,7 +17,7 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 
 ---
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
