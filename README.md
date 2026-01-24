@@ -10,13 +10,9 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--az02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-az02)
-
 <br/>
-
 [![Email](https://img.shields.io/badge/Email-faizan.professional02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.professional02@gmail.com)
-
 <br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanaziz.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.faizanaziz.dev)
 
 ---
@@ -47,7 +43,7 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 <br/>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=111827)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=111827)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
