@@ -11,7 +11,7 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--az02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-az02)
 [![Email](https://img.shields.io/badge/Email-faizan.professional02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.professional02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanaziz.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.faizanaziz.dev)
-[![Resume](https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
 
 ---
 
@@ -37,5 +37,3 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-If it’s still not rendering after removing the backticks, tell me exactly which part isn’t showing (badges vs profile views vs stats), and I’ll adjust the links.
