@@ -58,5 +58,5 @@ I’m a 22-year-old data scientist from the city of Islamabad, Pakistan. Passion
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=57CBFF&center=true&vCenter=true&width=820&lines=Build+pipelines+that+turn+raw+data+into+decisions!+%F0%9F%93%8A" alt="Typing quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=57CBFF&center=true&vCenter=true&width=820&lines=Build+systems+that+learn+from+data!+%F0%9F%93%8A" alt="Typing quote" />
 </p>
