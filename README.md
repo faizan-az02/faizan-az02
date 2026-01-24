@@ -1,11 +1,3 @@
-### What’s wrong
-In your screenshot, it looks like the badges/visitor counter are being treated as **plain text** (not rendered). That usually happens when the README content is inside a **code block** (you pasted the ``` fences too), or you’re just viewing the **edit** tab instead of **Preview**.
-
-### Fix
-- **Make sure your README does NOT contain** the opening/closing lines like: ``` or ```md
-- On GitHub, click **Preview** (or save + view your profile) to see the colored badges render.
-
-### Paste this (no code fences)
 ## Hi, I’m Faizan Aziz
 
 I’m a data scientist and machine learning engineer focused on computer vision, deep learning, and data-driven systems.
@@ -19,7 +11,7 @@ I’m a data scientist and machine learning engineer focused on computer vision,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--az02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-az02)
 [![Email](https://img.shields.io/badge/Email-faizan.professional02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.professional02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanaziz.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.faizanaziz.dev)
-[![Resume](https://img.shields.io/badge/Resume-24__1__26.pdf-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
+[![Resume](https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
 
 ---
 
