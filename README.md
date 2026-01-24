@@ -1,53 +1,48 @@
-## Hi there
+```md
+## Hi, I’m Faizan Aziz
 
-I’m **Faizan Aziz** — a data scientist and ML engineer focused on **Computer Vision**, **Deep Learning**, and **data-driven systems**.
+I’m a data scientist and machine learning engineer focused on computer vision, deep learning, and data-driven systems.
 
-- **Current focus**: CV pipelines, model training/evaluation, and scalable data processing
-- **Portfolio**: [faizanaziz.dev](https://www.faizanaziz.dev)
-- **Resume**: [24_1_26.pdf](https://www.faizanaziz.dev/24_1_26.pdf)
-
----
-
-## What I do
-- Build end-to-end ML workflows: data → training → evaluation → deployment-ready artifacts
-- Computer vision: preprocessing, transformations, mosaicking/georeferencing-style workflows
-- Benchmarking & optimization: CPU vs GPU training, performance profiling, reproducible experiments
+![Profile views](https://komarev.com/ghpvc/?username=faizan-az02&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## Featured projects
-- **Vigilon** — AI-powered smart surveillance (CV + deep learning)  
-  Repo: https://github.com/faizan-az02
-- **MetroMesh** — streaming join engine using MeshJoin (Metro sales data)  
-  Repo: https://github.com/faizan-az02/Metro-Sales-Data-Warehouse
-- **AmazonCoBuy** — Kafka data mining engine (Apriori/ECLAT/PCY)  
-  Repo: https://github.com/faizan-az02/Kafka-Data-Mining-Engine
-- **GPU-Based Classification Pipeline** — CPU vs GPU training benchmarks (RAPIDS + LightGBM)  
-  Repo: https://github.com/faizan-az02/GPU-Based-Classification-Pipeline
-- **OpenCL-Based Image Processing** — Gaussian blur and convolution benchmarking  
-  Repo: https://github.com/faizan-az02/OpenCL-Based-Image-Processing
-- **Hadoop-Based Search Engine** — MapReduce pipeline for TF/TF-IDF indexing  
-  Repo: https://github.com/faizan-az02/Hadoop-Based-Search-Engine
+## Connect with Me
 
-More: [Archive](https://www.faizanaziz.dev/archive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--az02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-az02)
+[![Email](https://img.shields.io/badge/Email-faizan.professional02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.professional02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faizanaziz.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.faizanaziz.dev)
+[![Resume](https://img.shields.io/badge/Resume-24__1__26.pdf-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
 
 ---
 
-## Tech I work with
-**Languages**: Python, C++, SQL  
-**ML/CV**: PyTorch, TensorFlow, OpenCV  
-**Data**: Kafka, Hadoop, MongoDB, PostgreSQL  
-**Tools**: Git, Linux, Jupyter
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## Connect
-- LinkedIn: https://linkedin.com/in/faizan-az02
-- Email: faizan.professional02@gmail.com
-- GitHub: https://github.com/faizan-az02
+## GitHub Stats
 
----
-
-## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-az02&show_icons=true&hide_title=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-az02&layout=compact)
+```
