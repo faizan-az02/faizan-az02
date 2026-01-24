@@ -1,4 +1,5 @@
-## Hi, I’m Faizan Aziz      [![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
+## Hi, I’m Faizan Aziz
+[![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/24_1_26.pdf)
 
 I’m a data scientist and machine learning engineer focused on computer vision, deep learning, and data-driven systems.
 
