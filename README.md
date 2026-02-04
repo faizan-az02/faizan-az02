@@ -52,7 +52,7 @@ I’m a 23-year-old data scientist from the city of Islamabad, Pakistan. Passion
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-0A1F44?style=for-the-badge&logo=langsmith&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=chromadb&logoColor=white&logo=google-chrome&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 <br/><br/>
 <hr/>
