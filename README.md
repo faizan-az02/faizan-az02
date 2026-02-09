@@ -16,9 +16,6 @@ I’m a 23-year-old data scientist from the city of Islamabad, Pakistan. Passion
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanaziz.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.faizanaziz.dev)
 
 ---
-
-## 🛠️ Languages & Tools
-
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
