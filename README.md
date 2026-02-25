@@ -37,12 +37,12 @@ I’m a 23-year-old Data Scientist & AI Engineer from the city of Islamabad, Pak
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=111827)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,7 +54,7 @@ I’m a 23-year-old Data Scientist & AI Engineer from the city of Islamabad, Pak
 ![LangSmith](https://img.shields.io/badge/LangSmith-0A1F44?style=for-the-badge&logo=langsmith&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge)
 
 <br/><br/>
 <hr/>
