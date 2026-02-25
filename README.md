@@ -22,6 +22,7 @@ I’m a 23-year-old Data Scientist & AI Engineer from the city of Islamabad, Pak
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -53,6 +54,7 @@ I’m a 23-year-old Data Scientist & AI Engineer from the city of Islamabad, Pak
 ![LangSmith](https://img.shields.io/badge/LangSmith-0A1F44?style=for-the-badge&logo=langsmith&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1E293B?style=for-the-badge&logo=robot&logoColor=white)
 
 <br/><br/>
 <hr/>
