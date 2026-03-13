@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Faizan Aziz
-[![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/3_3_26.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/13_3_26.pdf)
 
 I’m a 23-year-old Data Scientist & AI Engineer from the city of Islamabad, Pakistan. Passionate about data and artificial intelligence, I’m on a mission to make my mark in the world of analytics with my scientific expertise.
 
