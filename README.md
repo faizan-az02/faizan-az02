@@ -1,3 +1,5 @@
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Haider%20Akbar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI,%20Agents,%20Data%20%EF%BC%86%20Systems%&descAlignY=53&descAlign=68" width="100%"/>
+
 ## 👋 Hi, I’m Faizan Aziz
 [![Resume](https://img.shields.io/badge/Resume-Resume1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.faizanaziz.dev/13_3_26.pdf)
 
